@@ -22,9 +22,9 @@ Perfect for modern web applications and personal websites.
 
 ## Screenshots  
 
-##Darkmode
-![Dark Mode](media/docs-dark.png)
 
+![Dark Mode](media/docs-dark.png)
+##Darkmode
 ##lightmode
 ![Light Mode](media/docs-light.png)  
 
